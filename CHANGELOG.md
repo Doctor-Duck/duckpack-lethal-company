@@ -57,3 +57,22 @@ Other Changes
 - Updated all mods that needed to be updated.
 - Tweaked some more configs.
 - Included configs for those using the following mods: HullBreaker_Company (1.2.7)
+
+# Version 5
+Added Mods
+- Added Helmet Cameras (Replaces Solos_Bodycams)
+- Added LCBetterClock (Replaces ShipClock)
+- Added MirrorDecor
+- Added LethalProgression
+- Added Mimics
+- Added QuotaRollover
+- Added More_Emotes
+
+Removed Mods
+- Removed Solos_Bodycams
+- Removed Pinger
+
+Other Changes
+- Updated all mods that needed to be updated.
+- Reverted some config chages in Version 4.
+- Included configs for those using the following mods: HullBreaker_Company (1.3.3)
