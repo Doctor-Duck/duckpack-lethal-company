@@ -76,3 +76,35 @@ Other Changes
 - Updated all mods that needed to be updated.
 - Reverted some config chages in Version 4.
 - Included configs for those using the following mods: HullBreaker_Company (1.3.3)
+
+# Version 6
+Added Mods
+- Added Skinwalkers
+- Added TerminalApi
+- Added StockOverview
+- Added NiceChat
+- Added SlimeTamingFix
+- Added Glowstick
+- Added MemeSoundboard
+- Added Coroner
+- Added Spectators
+- Added PushCompany
+- Added LethalRadiation
+- Added Terminal History
+- Added DoorFix
+- Added ScanForEnemies
+
+Removed Mods
+- Removed MirrorDecor
+- Removed TerminalExtras
+- Removed BetterTeleporter
+
+Other Changes
+- (Mostly) Compatible with v45.
+- Updated all mods that needed to be updated.
+- Reduced starting inventory slots to 4. 
+- Buffed the Night Vision late game upgrade.
+
+# Version 6.1.0
+
+- Fixed version number.
