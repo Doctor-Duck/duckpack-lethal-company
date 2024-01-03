@@ -93,11 +93,18 @@ Added Mods
 - Added Terminal History
 - Added DoorFix
 - Added ScanForEnemies
+- Added darmuhsTerminalStuff
+- Added FOV_Adjust
+- Added MaskedEnemyOverhaul
+- Added CoilHeadStare
+- Added SellTracker
+- Added HideChat 
 
 Removed Mods
 - Removed MirrorDecor
 - Removed TerminalExtras
 - Removed BetterTeleporter
+- Removed StockOverview
 
 Other Changes
 - (Mostly) Compatible with v45.
@@ -108,3 +115,34 @@ Other Changes
 # Version 6.1.0
 
 - Fixed version number.
+
+# Version 7.0.0
+Added Mods
+- Added OdysseySounds
+- Added LCSoundTool
+- Added CustomSounds
+- Added InsanityMeter
+- Added LCLightsStartOffMod
+- Added BetterSprayPaint
+- Added BetterItemScan (Replaces ShipLoot)
+- Added FrequencyWalkie
+- Added PerformanceCompany (Replaces HDLethalCompany)
+- Added BetterEmotes (Replaces More_Emotes)
+- Added TerminalGames
+- Added SimpleCommandAPI
+- Added DimmingFlashlights
+- Added BetterLightning
+- Added VoiceHUD
+
+Removed Mods
+- Removed HDLethalCompany
+- Removed More_Emotes
+- Removed PushCompany
+- Removed ShipLoot
+- Removed LethalLoudnessMeter
+- Removed Spectators 
+- Removed ScanForEnemies
+
+Other Changes
+- Updated all mods that needed to be updated.
+- Backdated LCBetterSaves to fix an issue with ghost saves.
