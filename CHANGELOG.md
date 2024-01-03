@@ -1,3 +1,6 @@
+# Tips for Updating DuckPack
+If you are updating to a new version of DuckPack, it is recommended to use a fresh mod profile to get the latest config changes and remove any mods that get removed from the old version.
+
 # Version 1
 - Initial Release
 
@@ -19,3 +22,38 @@
 - Updated all mods that needed to be updated.
 - Tweaked some configs.
 - Included configs for those using the following mods: HullBreaker_Company (1.2.1)
+
+# Version 4
+Added Mods
+- Added ShipLobby (Replaces LateCompany)
+- Added LethalLoudnessMeter (Replaces VoiceHUD)
+- Added MoreCompany (Replaces BiggerLobby)
+- Added NameplateTweaks
+- Added LethalThings
+- Added ScrollInverter
+- Added QuickRestart
+- Added Lethal_Company_Enhancer
+- Added FasterItemDropship
+- Added LCBetterSaves
+- Added BetterTeleporter
+- Added MoreItems
+- Added TerminalExtras
+- Added MoreScreams
+- Added ScalingStartCredits
+- Added Solos_Bodycams
+- Added WackyCosmetics
+- Added SuitSaver
+- Added EladsHUD
+- Added LethaCompanyDRP
+
+Removed Mods
+- Removed LethalCompanyBetterScaling
+- Removed LateCompany
+- Removed VoiceHUD
+- Removed BiggerLobby
+- Removed Strange Objects
+
+Other Changes
+- Updated all mods that needed to be updated.
+- Tweaked some more configs.
+- Included configs for those using the following mods: HullBreaker_Company (1.2.7)
