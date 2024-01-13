@@ -1,65 +1,10 @@
 # Tips for Updating DuckPack
 If you are updating to a new version of DuckPack, it is recommended to use a fresh mod profile to get the latest config changes and remove any mods that get removed from the old version.
 
-# Version 1
-- Initial Release
+**Note: Change Logs for versions before 5.0.0 have been removed to save space and reading time. See Github repository for the full changelog for each version.**
 
-# Version 2
-- Added LC_Symphony
-- Added LethalCompanyBetterScaling
-- Added HookGenPatcher
-- Added LethalLib
-- Added Lategame_Upgrade
-- Removed WalkieUse (MikesTweaks now has this feature)
-- Updated all mods that needed to be updated.
-- Included configs folder with my own personal settings. Feel free to to change these to your liking.
-
-# Version 3
-- Added HDLethalCompany
-- Added WeatherMultipliers
-- Added VoiceHUD
-- Added Strange Objects
-- Updated all mods that needed to be updated.
-- Tweaked some configs.
-- Included configs for those using the following mods: HullBreaker_Company (1.2.1)
-
-# Version 4
-Added Mods
-- Added ShipLobby (Replaces LateCompany)
-- Added LethalLoudnessMeter (Replaces VoiceHUD)
-- Added MoreCompany (Replaces BiggerLobby)
-- Added NameplateTweaks
-- Added LethalThings
-- Added ScrollInverter
-- Added QuickRestart
-- Added Lethal_Company_Enhancer
-- Added FasterItemDropship
-- Added LCBetterSaves
-- Added BetterTeleporter
-- Added MoreItems
-- Added TerminalExtras
-- Added MoreScreams
-- Added ScalingStartCredits
-- Added Solos_Bodycams
-- Added WackyCosmetics
-- Added SuitSaver
-- Added EladsHUD
-- Added LethaCompanyDRP
-
-Removed Mods
-- Removed LethalCompanyBetterScaling
-- Removed LateCompany
-- Removed VoiceHUD
-- Removed BiggerLobby
-- Removed Strange Objects
-
-Other Changes
-- Updated all mods that needed to be updated.
-- Tweaked some more configs.
-- Included configs for those using the following mods: HullBreaker_Company (1.2.7)
-
-# Version 5
-Added Mods
+# Version 5.0.0
+[Added Mods]
 - Added Helmet Cameras (Replaces Solos_Bodycams)
 - Added LCBetterClock (Replaces ShipClock)
 - Added MirrorDecor
@@ -68,17 +13,17 @@ Added Mods
 - Added QuotaRollover
 - Added More_Emotes
 
-Removed Mods
+[Removed Mods]
 - Removed Solos_Bodycams
 - Removed Pinger
 
-Other Changes
+[Other Changes]
 - Updated all mods that needed to be updated.
 - Reverted some config chages in Version 4.
 - Included configs for those using the following mods: HullBreaker_Company (1.3.3)
 
-# Version 6
-Added Mods
+# Version 6.0.0
+[Added Mods]
 - Added Skinwalkers
 - Added TerminalApi
 - Added StockOverview
@@ -100,13 +45,13 @@ Added Mods
 - Added SellTracker
 - Added HideChat 
 
-Removed Mods
+[Removed Mods]
 - Removed MirrorDecor
 - Removed TerminalExtras
 - Removed BetterTeleporter
 - Removed StockOverview
 
-Other Changes
+[Other Changes]
 - (Mostly) Compatible with v45.
 - Updated all mods that needed to be updated.
 - Reduced starting inventory slots to 4. 
@@ -117,7 +62,7 @@ Other Changes
 - Fixed version number.
 
 # Version 7.0.0
-Added Mods
+[Added Mods]
 - Added OdysseySounds
 - Added LCSoundTool
 - Added CustomSounds
@@ -134,7 +79,7 @@ Added Mods
 - Added BetterLightning
 - Added VoiceHUD
 
-Removed Mods
+[Removed Mods]
 - Removed HDLethalCompany
 - Removed More_Emotes
 - Removed PushCompany
@@ -143,6 +88,54 @@ Removed Mods
 - Removed Spectators 
 - Removed ScanForEnemies
 
-Other Changes
+[Other Changes]
 - Updated all mods that needed to be updated.
 - Backdated LCBetterSaves to fix an issue with ghost saves.
+
+# Version 8.0.0
+[Added Mods]
+- Added Brutal Company Plus (Required for all players)
+- Added LethalExpansion 
+- Added Orion (New Moon)
+- Added Aquatis (New Moon)
+- Added Kast (New Moon)
+- Added DarkMist (New Enemy)
+- Added RollingGiant (New Enemy)
+- Added Artery Corp (New Weather Condition)
+- Added Immersive Visor
+- Added BetterMonitor
+- Added Unlimited Sell Mod
+- Added BetterSpec
+- Added HostFixes
+- Added DontBlink
+- Added NoCorpseHigherQuota
+- Added Lockout
+- Added More_Suits
+- Added Doms_Basic_Suit_Colors
+- Added TooManySuits
+- Added IntroTweaks (Replaces LC_Symphony)
+
+[Removed Mods]
+- Removed FrequencyWalkie
+- Removed OdysseySounds
+- Removed CustomSounds
+- Removed LCSoundTool
+- Removed Glowstick
+- Removed TerminalGames
+- Removed AdditionalSuits
+- Removed MoreItems
+- Removed LCBetterClock
+- Removed Helmet_Cameras
+- Removed QuickRestart 
+- Removed LC_Symphony 
+- Removed HideChat
+
+[Other Changes]
+- Updated all mods that needed to be updated.
+- Included Github page in manifest.
+- Updated README.
+- Set max allowed items on ship to 100.
+- Set starting credits to 99.
+- Set starting quota to 152.
+- Moon catalouge now shows moon rank and price.
+- Removed HullBreaker_Company configs. Using Brutal Company Plus instead (which is included in this update).
